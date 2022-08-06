@@ -1,0 +1,75 @@
+﻿<Window x:Class="NewGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NewGUI"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        MinHeight="450"
+        MinWidth="503"
+        Loaded="Load"
+        ResizeMode="CanMinimize"
+        Title="Пятнашки" Height="450" Width="800" KeyDown="Window_KeyDown">
+    <Grid>
+        <DockPanel x:Name="Doc" LastChildFill="True">
+            <UniformGrid DockPanel.Dock="Bottom" Height="382"
+                   Name="uniformGrid"  Margin="10,2">
+                <Button Name ="button0" Tag="0"/>
+                <Button Name ="button1" Tag="1"/>
+                <Button Name ="button2" Tag="2"/>
+                <Button Name ="button3" Tag="3"/>
+                <Button Name ="button4" Tag="4"/>
+                <Button Name ="button5" Tag="5"/>
+                <Button Name ="button6" Tag="6"/>
+                <Button Name ="button7" Tag="7"/>
+                <Button Name ="button8" Tag="8"/>
+                <Button Name ="button9" Tag="9"/>
+                <Button Name ="button10" Tag="10"/>
+                <Button Name ="button11" Tag="11"/>
+                <Button Name ="button12" Tag="12"/>
+                <Button Name ="button13" Tag="13"/>
+                <Button Name ="button14" Tag="14"/>
+                <Button Name ="button15" Tag="15"/>
+                <UniformGrid.Resources >
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Focusable" Value="False"/>
+                        <EventSetter Event="Click" Handler="ButtonClick"/>
+                        <Setter Property="Content" Value="*"/>
+                        <Setter Property="FontSize" Value="30"/>
+                        <Setter Property="Margin" Value="2,2,2,2"/>
+                        <Setter Property="FontWeight" Value="Black"/>
+                    </Style>
+                </UniformGrid.Resources>
+            </UniformGrid>
+            <Menu DockPanel.Dock="Top" Height="509" Margin="5,0">
+                <MenuItem DockPanel.Dock="Left" Name="MenuStartGame" Header="Начать игру" FontSize="16" Click="StartGame">
+                </MenuItem>
+                <MenuItem DockPanel.Dock="Left" Name="BackButton" Header="Вернуть ход" FontSize="16" Click="ReturnButton">
+                </MenuItem>
+                <MenuItem DockPanel.Dock="Left" Name="AddBut" Header="Добавить 7 клеток" FontSize="16" Click="AddButton">
+                </MenuItem>
+                <MenuItem DockPanel.Dock="Left" Name="DelBut" Header="Убрать 7 клеток" FontSize="16" Click="DelButton" Height="23">
+                </MenuItem>
+
+            </Menu>
+
+        </DockPanel>
+        <Label Name="Time" Margin="688,-4,0,383" FontSize="16">
+            <StackPanel Orientation="Horizontal">
+                <AccessText Text="_Время: 0" />
+            </StackPanel>
+        </Label>
+
+
+        <Label Name="Steps" Margin="500,-4,109,383" FontSize="16">
+            <StackPanel Orientation="Horizontal">
+                <AccessText Text="_Количесво шагов: 0" Height="22" />
+            </StackPanel>
+        </Label>
+
+
+
+
+    </Grid>
+</Window>

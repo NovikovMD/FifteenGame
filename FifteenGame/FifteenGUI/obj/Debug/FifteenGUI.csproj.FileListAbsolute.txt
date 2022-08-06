@@ -1,0 +1,10 @@
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe.config
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.pdb
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Fifteen.resources
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Properties.Resources.resources
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.GenerateResource.cache
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.CoreCompileInputs.cache
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.exe
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.pdb
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.AssemblyReference.cache

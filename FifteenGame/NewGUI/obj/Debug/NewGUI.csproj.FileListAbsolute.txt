@@ -1,0 +1,15 @@
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\bin\Debug\NewGUI.exe.config
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\bin\Debug\NewGUI.exe
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\bin\Debug\NewGUI.pdb
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\NewGUI.csproj.AssemblyReference.cache
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\App.g.cs
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\NewGUI_MarkupCompile.cache
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\NewGUI_MarkupCompile.lref
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\MainWindow.baml
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\NewGUI.g.resources
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\NewGUI.Properties.Resources.resources
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\NewGUI.csproj.GenerateResource.cache
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\NewGUI.csproj.CoreCompileInputs.cache
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\NewGUI.exe
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\FifteenGame\NewGUI\obj\Debug\NewGUI.pdb
